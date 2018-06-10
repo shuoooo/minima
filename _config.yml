@@ -37,6 +37,7 @@ minima:
 header_pages:
  - about.md
  - portfolio.md
+ - link.md
 
 # Build settings
 theme: minima
